@@ -214,4 +214,4 @@ Quake 4 Multiplayer is offered as a full free version with all features and upda
 Download Quake 4 Multiplayer now and immerse yourself in one of the most thrilling FPS experiences available. Join the action today!
 
 ---
-**Last updated:** 2026-10-23 06:55:43 UTC
+**Last updated:** 2026-10-23 12:25:35 UTC
